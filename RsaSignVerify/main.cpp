@@ -3,6 +3,7 @@
 #include <iostream>
 #include <openssl/rsa.h>
 #include <openssl/pem.h>
+//Comment next line on linux-base OS
 #include <openssl/applink.c>
 #include <openssl/err.h>
 
